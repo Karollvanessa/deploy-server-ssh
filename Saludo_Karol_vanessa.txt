@@ -1,1 +1,0 @@
-Hi, I successfully deployed my project on a remote server using SSH and Git.

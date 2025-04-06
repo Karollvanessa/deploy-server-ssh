@@ -35,4 +35,4 @@ In **Repository Settings > Secrets and variables > Actions**, we added the follo
 From terminal, we used the following command to connect:
 
 ```bash
-ssh -i pemSMacServerEstudiantes ndgServer@191.89.129.146
+ssh -i pemSMacServerEstudiantes ndgServer@201.190.115.29
